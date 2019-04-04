@@ -12,11 +12,6 @@ In this project, I'll write a software pipeline to identify vehicles in a video 
 
 You can also watch a demo video of this project [on my YouTube](https://youtu.be/ogwdGtVbd40)
 
-
-## Get the Code
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/vehicle-detection//p5-vehicle-detection-and-tracking.zip)
-
-
 ## Overview Pipeline
 
 The general steps of this project are the following:
